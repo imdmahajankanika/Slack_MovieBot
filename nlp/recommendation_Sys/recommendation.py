@@ -12,7 +12,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.metrics.pairwise import linear_kernel
 import pandas as pd
 import os,sys
-from config import storedVarFile
+from nlp.recommendation_Sys.config import storedVarFile
 
 # Load the variables from "storedVarFile.joblib" file
 try:
@@ -20,7 +20,7 @@ try:
 except:
     cosine_sim, indices, tfidf_fit1, tfidf_matrix1 = ['','','','']
 
-metadata = pd.read_csv('movies_metadata_prep.csv')
+metadata = pd.read_csv('nlp/recommendation_Sys/movies_metadata_prep.csv')
 
 REPLACE_BY_SPACE_RE = re.compile(r'[/(){}\[\]\|@,;]')
 BAD_SYMBOLS_RE = re.compile(r'[^0-9a-z #+_]')
@@ -72,3 +72,6 @@ def get_recommendations(title, metadata=metadata,indices=indices, cosine_sim=cos
     movie_indices = [i[0] for i in sim_scores]
     # Return the top 3 most similar movies
     return metadata['title'].iloc[movie_indices]
+
+
+

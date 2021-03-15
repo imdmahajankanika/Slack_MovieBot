@@ -2,7 +2,7 @@
 """
 This onetime setup makes it easier in situations when the data is changing constantly and the bot needs to adapt to these data changes quickly.
 All we need to do is to run this file whenever we need without changing any of the internal functions in the bot.
-cd
+
 """
 
 import joblib
@@ -14,7 +14,7 @@ from recommendation import *
 
 if __name__ == "__main__":
 
-    metadata = pd.read_csv('movies_metadata_prep.csv')
+    metadata = pd.read_csv('nlp/recommendation_Sys/movies_metadata_prep.csv')
     
     ########      Metadata based collobarative filtering  #############    
     
