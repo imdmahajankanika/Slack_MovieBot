@@ -5,7 +5,6 @@
 """
 
 import os,sys
-sys.path.append(os.path.normpath(os.getcwd()))
 import random
 from config import service, assistant_id
 from nlp.recommendation_Sys.recommendation import *

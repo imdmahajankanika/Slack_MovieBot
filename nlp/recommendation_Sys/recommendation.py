@@ -12,7 +12,6 @@ from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.metrics.pairwise import linear_kernel
 import pandas as pd
 import os,sys
-sys.path.append(os.path.normpath(os.getcwd()))
 from nlp.recommendation_Sys.config import storedVarFile
 
 # Load the variables from "storedVarFile.joblib" file

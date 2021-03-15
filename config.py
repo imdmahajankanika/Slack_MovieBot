@@ -15,7 +15,7 @@ assistant_id='8a7b890d-a52e-44b3-953f-6d46a6700853'
 
 ################# Slack configuration   ##########################
 
-SLACK_BOT_TOKEN='xoxb-1849778358129-1864408962976-kGjN5xkUabE28vrk5Z3qVFW7'
+SLACK_BOT_TOKEN='xoxb-1849778358129-1864408962976-5ZC66SfUe4qh5GVH3UCwlVWy'
 SLACK_VERIFICATION_TOKEN='sxTkZCZFqMczL4AC0SWt6Udw' 
 
 # Instantiate Slack client
