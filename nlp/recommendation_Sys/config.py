@@ -7,7 +7,7 @@ from slackclient import SlackClient
 
 ################# Slack configuration   ##########################
 
-SLACK_BOT_TOKEN='xoxb-1849778358129-1864408962976-5ZC66SfUe4qh5GVH3UCwlVWy'
+SLACK_BOT_TOKEN='xoxb-1849778358129-1864408962976-ZYBpD8zK3DVAvmifUlCfogtp'
 SLACK_VERIFICATION_TOKEN='sxTkZCZFqMczL4AC0SWt6Udw' 
 
 # instantiate Slack client
