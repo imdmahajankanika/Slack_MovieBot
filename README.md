@@ -16,7 +16,9 @@
 			<li> <b>Recommendation for similar movies</b> </li>
 		</ul>
 	</li>
-## <b>Prerequisites to setup MovieBot:- </b>
+
+
+##<b>Prerequisites to setup MovieBot:- </b>
 		<ul>
 			<li> <b>Install the required libraries</b>
 			<ul>
