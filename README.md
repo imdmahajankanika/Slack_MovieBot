@@ -32,7 +32,7 @@
 	<li><Create a Slack classic app <a href="https://api.slack.com/apps?new_classic_app=1">click here</a>  and install it to your Slack workspace. </li>
 	<li>Make a note of <b>"Verification Token"</b> and <b>"Bot User OAuth Token".</b></li>
 	<li>Setup IBM Watson Assitant <a href="https://cloud.ibm.com/docs/assistant-data?topic=assistant-data-getting-started"> Click here </a>, create a dialog skill and add intent and entites.</li>
-	<li>Make a note of <b>"Assistant API Key"<b> and <b>"Assistant skill Id".</b></li>		
+	<li>Make a note of <b>"Assistant API Key"</b> and <b>"Assistant skill Id".</b></li>		
 	<li>Integrate Watson Assistant with Slack <a href="https://cloud.ibm.com/docs/assistant?topic=assistant-deploy-slack"> Click here</a></li>
 	
 </ul>
