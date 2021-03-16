@@ -39,9 +39,9 @@
 
 ## How to initiate MovieBot...
 <ul>
-	<li> Clone this project and update config files for <b>"Verification Token"<b>, <b>"Bot User OAuth Token"</b>, <b>"Assistant API Key"<b> and <b>"Assistant skill Id".</li>
-	<li> Execute <b>collabFilter.py<b> present under nlp/recommendation_Sys so as to generate a .joblib file storing the variables, matrices to be used for recommendation system.</li>
-	<li> Run main.py and you will get a message <b>'MovieBot connected and running!'<b> on successful connection.
+	<li> Clone this project and update config files for <b>"Verification Token"</b>, <b>"Bot User OAuth Token"</b>, <b>"Assistant API Key"</b> and <b>"Assistant skill Id"</b>.</li>
+	<li> Execute <b>collabFilter.py</b> present under nlp/recommendation_Sys so as to generate a .joblib file storing the variables, matrices to be used for recommendation system.</li>
+	<li> Run main.py and you will get a message <b>'MovieBot connected and running!'</b> on successful connection.
 </ul>
 
 ## How to use...
