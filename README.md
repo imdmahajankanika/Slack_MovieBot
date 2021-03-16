@@ -29,7 +29,7 @@
 			<li>sklearn==0.23.2</li>
 			<li>joblib==0.17.0</li>
 		</ul>
-	<li><Create a Slack classic app <a href="https://api.slack.com/apps?new_classic_app=1">click here</a>  and install it to your Slack workspace. </li>
+	<li>Create a Slack classic app <a href="https://api.slack.com/apps?new_classic_app=1">click here</a>  and install it to your Slack workspace. </li>
 	<li>Make a note of <b>"Verification Token"</b> and <b>"Bot User OAuth Token".</b></li>
 	<li>Setup IBM Watson Assitant <a href="https://cloud.ibm.com/docs/assistant-data?topic=assistant-data-getting-started"> Click here </a>, create a dialog skill and add intent and entites.</li>
 	<li>Make a note of <b>"Assistant API Key"</b> and <b>"Assistant skill Id".</b></li>		
