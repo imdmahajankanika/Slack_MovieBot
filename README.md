@@ -16,22 +16,21 @@
 			<li> <b>Recommendation for similar movies</b> </li>
 		</ul>
 	</li>
-
+</ul>
 
 ##<b>Prerequisites to setup MovieBot:- </b>
+<ul>
+	<li> <b>Install the required libraries</b>
 		<ul>
-			<li> <b>Install the required libraries</b>
-			<ul>
-				<li>pandas==1.1.4</li>
-				<li>slackclient==1.2.1</li>
-				<li>watson-developer-cloud>=2.4.0</li>
-				<li>nltk==3.5</li>
-				<li>sklearn==0.23.2</li>
-				<li>joblib==0.17.0</li>
-			</ul>
-			<li> <b>Movie Genre</b> </li>
-			
+			<li>pandas==1.1.4</li>
+			<li>slackclient==1.2.1</li>
+			<li>watson-developer-cloud>=2.4.0</li>
+			<li>nltk==3.5</li>
+			<li>sklearn==0.23.2</li>
+			<li>joblib==0.17.0</li>
 		</ul>
-	
+	<li> <b>Movie Genre</b> </li>
+			
 </ul>
+
 
