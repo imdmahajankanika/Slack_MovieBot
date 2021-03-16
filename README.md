@@ -16,7 +16,8 @@
 			<li> <b>Recommendation for similar movies</b> </li>
 		</ul>
 	</li>
-	<li><b> Prerequisites to setup MovieBot:- </b>
+</ul>
+## Prerequisites to setup MovieBot:- 
 		<ul>
 			<li> <b>Movie Overview</b> </li>
 			<li> <b>Movie Genre</b> </li>
@@ -29,6 +30,6 @@
 			<li> <b>Check for adult content</b> </li>
 			<li> <b>Recommendation for similar movies</b> </li>
 		</ul>
-	</li>
-</ul>
+	
+
 
