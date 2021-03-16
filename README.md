@@ -45,9 +45,9 @@
 </ul>
 
 ## How to use...
-<img src="">
-<img src="">
-<img src="">
+<img src="https://github.com/imdmahajankanika/Slack_MovieBot/blob/main/Pictures/Picture1.png">
+<img src="https://github.com/imdmahajankanika/Slack_MovieBot/blob/main/Pictures/Picture2.png">
+<img src="https://github.com/imdmahajankanika/Slack_MovieBot/blob/main/Pictures/Picture3.png">
 
 
 
