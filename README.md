@@ -48,6 +48,7 @@
 <img src="https://github.com/imdmahajankanika/Slack_MovieBot/blob/main/Pictures/Picture1.png">
 <img src="https://github.com/imdmahajankanika/Slack_MovieBot/blob/main/Pictures/Picture2.png">
 <img src="https://github.com/imdmahajankanika/Slack_MovieBot/blob/main/Pictures/Picture3.png">
+<img src="https://github.com/imdmahajankanika/Slack_MovieBot/blob/main/Pictures/Picture4.png">
 
 
 
