@@ -20,7 +20,7 @@
 
 ## MovieBot setup prerequisites:-
 <ul>
-	<li> Install the required python libraries (used Python 3.9.0 in this case)
+	<li> Install the required python libraries (used Python 3.9.0 in this case) mentioned in requirements.txt file
 		<ul>
 			<li>pandas==1.1.4</li>
 			<li>slackclient==1.2.1</li>
